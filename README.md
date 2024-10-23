@@ -9,7 +9,5 @@ We demonstrate how to build a functional digital twin that aggregates both geome
 * Internet access and the ability to download the Omniverse Kit SDK and project files.
 * Some background in Python and/or C++ is helpful.
 
-## 1. Clone the Repository
-__Note: all cells in this notebook are to be run in CLI by opening a Windows terminal in the next tab (File - New - Terminal).__
-
-Navigate to your desired workspace and clone the `kit-app-template` to your local workspace (copy-paste this command in the terminal):
+## Core Outcome:
+A high-fidelity 3D co-visualization of a custom 3D dataset augmented with non-geometric data streamed from an external source, with bidirectional connectivity between the two kinds of data.​
